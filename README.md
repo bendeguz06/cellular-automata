@@ -1,5 +1,7 @@
 ## Conway's Game of Life || Cellular Automation
 
+https://bendeguz06.github.io/cellular-automation
+
 # Installation
 
 To install dependencies:
