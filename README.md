@@ -1,4 +1,4 @@
-## Cellular Automatata ._.
+## Cellular Automatata ._. || Conway's Game of Life
 
 https://bendeguz06.github.io/cellular-automatata
 
