@@ -1,4 +1,4 @@
-## Conway's Game of Life || Cellular Automation
+## Cellular Automatata
 
 https://bendeguz06.github.io/cellular-automation
 
